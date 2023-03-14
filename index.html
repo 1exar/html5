@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Smashing Four</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="TemplateData/UnityProgress.javascript"></script>
-    <script src="Build/UnityLoader.js"></script>
+    <title>Unity WebGL Player | Smashing Four</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" width=600 height=960 style="width: 600px; height: 960px; background: #231F20"></canvas>
+    <script src="Build/Build.loader.js"></script>
     <script>
-        var gameInstance = UnityLoader.instantiate("gameContainer", "Build/html5.json", {onProgress: UnityProgress});
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/Build.data",
+        frameworkUrl: "Build/Build.framework.js",
+        codeUrl: "Build/Build.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "Weio",
+        productName: "Smashing Four",
+        productVersion: "0.1",
+        // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
+        // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
+      });
     </script>
-</head>
-<body>
-<div class="webgl-content">
-    <div id="gameContainer" style="width: 1080px; height: 1920px"></div>
-</div>
-<div class="simmer">template by: <a href="https://simmer.io" target="_blank">SIMMER.io</a></div>
-<script src="TemplateData/responsive.javascript"></script>
-</body>
+  </body>
 </html>
