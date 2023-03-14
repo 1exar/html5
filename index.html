@@ -6,15 +6,15 @@
     <title>Unity WebGL Player | Smashing Four</title>
   </head>
   <body style="text-align: center">
-    <canvas id="unity-canvas" width=600 height=960 style="width: 600px; height: 960px; background: #231F20"></canvas>
-    <script src="Build/Build.loader.js"></script>
+    <canvas id="unity-canvas" width=1080 height=1920 style="width: 1080px; height: 1920px; background: #231F20"></canvas>
+    <script src="Build/html5.loader.js"></script>
     <script>
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/Build.data",
-        frameworkUrl: "Build/Build.framework.js",
-        codeUrl: "Build/Build.wasm",
+        dataUrl: "Build/html5.data.gz",
+        frameworkUrl: "Build/html5.framework.js.gz",
+        codeUrl: "Build/html5.wasm.gz",
         streamingAssetsUrl: "StreamingAssets",
-        companyName: "Weio",
+        companyName: "DefaultCompany",
         productName: "Smashing Four",
         productVersion: "0.1",
         // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
