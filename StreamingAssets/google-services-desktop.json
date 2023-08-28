@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997264702350",
+    "firebase_url": "https://experiments-31bec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "experiments-31bec",
+    "storage_bucket": "experiments-31bec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997264702350:android:65333cbe3830523df1c2df",
+        "android_client_info": {
+          "package_name": "com.Jigsaw.Game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997264702350-r39kgpkfhlnfm1b2gpfthjuuj0p0pcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmn7hysCTBiKczKvkXUGIkDRjAQbCS9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997264702350-r39kgpkfhlnfm1b2gpfthjuuj0p0pcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
