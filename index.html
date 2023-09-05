@@ -16,17 +16,24 @@
 <div class="webgl-content">
     <div id="gameContainer" style="width: 1200px; height: 600px"></div>
     <script>
-        var gameContainer = document.getElementById("gameContainer");
-        var maxWidth = 1200;
-        var maxHeight = 600;
+    // Получаем ссылку на элемент canvas
+    var canvas = document.getElementById("canvas");
 
-        if (gameContainer.offsetWidth > maxWidth) {
-            gameContainer.style.width = maxWidth + "px";
-        }
+    print(canvas.width)
 
-        if (gameContainer.offsetHeight > maxHeight) {
-            gameContainer.style.height = maxHeight + "px";
-        }
+    // Задаем максимальные значения ширины и высоты
+    var maxWidth = 1200; // Максимальная ширина
+    var maxHeight = 600; // Максимальная высота
+
+    // Проверяем и устанавливаем ширину
+    if (canvas.width > maxWidth) {
+        canvas.width = maxWidth;
+    }
+
+    // Проверяем и устанавливаем высоту
+    if (canvas.height > maxHeight) {
+        canvas.height = maxHeight;
+    }
     </script>
 </div>
 <div class="simmer">template by: <a href="https://simmer.io" target="_blank">SIMMER.io</a></div>
