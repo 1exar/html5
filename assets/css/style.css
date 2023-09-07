@@ -1,0 +1,26 @@
+.webgl-wrapper {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+ /* max-width: 1280px; /* remove this line for full width */
+  position: absolute;
+}
+
+.webgl-content {
+  position:absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+#unityContainer {
+  width: 100%; height: 100%;
+}
+
+
+/* this element makes sure we preserve 16:9 aspect ratio */
+/* for unity versions older than 2020, this is set in-line in index.html */
+
+
+/* progress bar */
