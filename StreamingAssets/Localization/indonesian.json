@@ -1,0 +1,312 @@
+{
+    "items": [
+        {
+            "key": "SelectLevelWindowItemLevel",
+            "value": "Tingkat {0}"
+        },
+        {
+            "key": "SettingsWindowTitle",
+            "value": "Pengaturan"
+        },
+        {
+            "key": "SettingsWindowMusic",
+            "value": "Musik"
+        },
+        {
+            "key": "SettingsWindowSounds",
+            "value": "Sounds"
+        },
+        {
+            "key": "SettingsWindowVibro",
+            "value": "Getaran"
+        },
+        {
+            "key": "SettingsWindowLanguage",
+            "value": "Bahasa"
+        },
+        {
+            "key": "SettingsWindowLanguageName",
+            "value": "Indonezian"
+        },
+        {
+            "key": "PlayingWindowTitleLevel",
+            "value": "Level {0}"
+        },
+        {
+            "key": "PlayingWindowBefore",
+            "value": "Untuk"
+        },
+        {
+            "key": "InfoWindowEndLevelsTitle",
+            "value": "Terima kasih, semua pelanggan puas!"
+        },
+        {
+            "key": "InfoWindowEndLevelsDescription",
+            "value": "Pembaruan dengan level baru dirilis setiap 2 minggu. Sekarang Anda memiliki pengalaman dan dapat membuat gambar baru untuk karakter."
+        },
+        {
+            "key": "InfoWindowEndLevelsActionRestart",
+            "value": "Mainkan"
+        },
+        {
+            "key": "InfoWindowExitToHomeDescription",
+            "value": "Apakah Anda yakin ingin masuk ke menu utama? Kemajuan level akan hilang"
+        },
+        {
+            "key": "InfoWindowExitToHomeButtonText",
+            "value": "Dalam menu"
+        },
+        {
+            "key": "ConfirmPurchaseTitle",
+            "value": "Selamat!"
+        },
+        {
+            "key": "ConfirmPurchaseDescription",
+            "value": "Pembelian berhasil diselesaikan, terima kasih!"
+        },
+        {
+            "key": "ConfirmPurchaseButton",
+            "value": "ok"
+        },
+        {
+            "key": "RateGameLoginDescription",
+            "value": "Untuk menilai permainan, Anda harus masuk ke akun Anda"
+        },
+        {
+            "key": "RateGameLoginButton",
+            "value": "MASUK"
+        },
+        {
+            "key": "GameInterstitialControllerAdsText",
+            "value": "Beriklan melalui {0}..."
+        },
+        {
+            "key": "",
+            "value": ""
+        },
+        {
+            "key": "NextLevel",
+            "value": "Selanjutnya"
+        },
+        {
+            "key": "ReplayLevel",
+            "value": "Putar ulang"
+        },
+        {
+            "key": "SubscriptionOfferRestorePurchase",
+            "value": "Pulihkan"
+        },
+        {
+            "key": "SubscriptionOfferEULA",
+            "value": "EULA"
+        },
+        {
+            "key": "SubscriptionOfferPrivacyPolicy",
+            "value": "Privasi"
+        },
+        {
+            "key": "MainOffer_Style1_Title",
+            "value": "Versi\nPremium"
+        },
+        {
+            "key": "MainOffer_Style1_Description",
+            "value": "Buka semua item makeup\nDapatkan kesenangan tanpa batas\ntanpa iklan"
+        },
+        {
+            "key": "MainOffer_Style1_Select1",
+            "value": "3 hari pertama gratis\nKemudian <b><size=42>{0}/minggu</size></b>"
+        },
+        {
+            "key": "MainOffer_Style1_Select2",
+            "value": "12 minggu\n<b><size=42>{0}/3 bulan</size></b>"
+        },
+        {
+            "key": "MainOffer_Style1_Subscribe",
+            "value": "Coba dan Langganan"
+        },
+        {
+            "key": "MainOffer_Style1_Sale",
+            "value": "-{0}%"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Title",
+            "value": "Penawaran Khusus\nHanya untuk Anda!"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Description",
+            "value": "Dapatkan semua item makeup\ndengan harga khusus"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Price1",
+            "value": "{0} Bulanan"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Price2",
+            "value": "Hanya {0} Bulanan"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Subscribe",
+            "value": "Dapatkan"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Sale",
+            "value": "-{0}%"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Tooltip",
+            "value": "Setelah langganan, pembayaran akan otomatis dimulai.\nIni akan diperbarui secara otomatis kecuali dimatikan dalam pengaturan akun setidaknya 24 jam sebelum akhir periode saat ini.\nPembayaran akan dibebankan ke akun Google Play Anda.\nBatal kapan saja."
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Price",
+            "value": "{0}"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Description",
+            "value": "Nonaktifkan iklan dan dapatkan semua item dengan harga khusus!"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Button",
+            "value": "DAPATKAN"
+        },
+        {
+            "key": "NotifyTitle1",
+            "value": "Penata rambut membutuhkan bantuanmu!"
+        },
+        {
+            "key": "NotifyText1",
+            "value": "Ayo bermain! 🔥🔥🔥\n"
+        },
+        {
+            "key": "NotifyTitle2",
+            "value": "\n🎨🎨 Kembali dan bantu di salon kecantikan! 🎨🎨\n"
+        },
+        {
+            "key": "NotifyText2",
+            "value": "Ayo bermain! 🎮🎮🎮\n"
+        },
+        {
+            "key": "NotifyTitle3",
+            "value": "\nHalo, master! 🙋‍♀️\n"
+        },
+        {
+            "key": "NotifyText3",
+            "value": "Saatnya bersantai! 🛖‍♀️\n"
+        },
+        {
+            "key": "NotifyTitle4",
+            "value": "❗️Barbie menunggu janjinya! 🤇‍♀️💅🏻\n"
+        },
+        {
+            "key": "NotifyText4",
+            "value": "Layani pelanggan dan bantu dia tampil lebih cantik! 💇‍♀️💅🏻\n"
+        },
+        {
+            "key": "NotifyTitle5",
+            "value": "Ingin meredakan stres? 🙅‍♀️\n"
+        },
+        {
+            "key": "NotifyText5",
+            "value": "Masuk ke game ASMR riasan! 💆‍♀️💄💅"
+        },
+        {
+            "key": "MainOffer_Style1_AdditionalInfo1",
+            "value": "Setelah berlangganan, periode uji coba gratis 3 hari akan dimulai, setelah itu pembayaran {0} / minggu akan dimulai secara otomatis. Perpanjangan otomatis diperpanjang jika tidak dinonaktifkan di pengaturan akun setidaknya 24 jam sebelum akhir periode berjalan. Pembayaran dibebankan ke akun Google Play Anda. Batalkan kapan saja."
+        },
+        {
+            "key": "MainOffer_Style1_AdditionalInfo2",
+            "value": "Setelah berlangganan, periode uji coba gratis 3 hari akan dimulai, setelah itu pembayaran {0} / 12 minggu akan dimulai secara otomatis. Perpanjangan otomatis diperpanjang jika tidak dinonaktifkan di pengaturan akun setidaknya 24 jam sebelum akhir periode berjalan. Pembayaran dibebankan ke akun Google Play Anda. Batalkan kapan saja."
+        },
+        {
+            "key": "TemporaryOffer_Style1_AdditionalInfo3",
+            "value": "Setelah berlangganan, periode uji coba gratis 3 hari akan dimulai, setelah itu pembayaran sebesar {0} / bulan akan dimulai secara otomatis. Perpanjangan otomatis diperpanjang jika tidak dinonaktifkan di pengaturan akun setidaknya 24 jam sebelum akhir periode berjalan. Pembayaran dibebankan ke akun Google Play Anda. Batalkan kapan saja."
+        },
+        {
+            "key": "Prestory_tap_to_continue",
+            "value": "Klik untuk melanjutkan"
+        },
+        {
+            "key": "Level1_Prestory1_button",
+            "value": "Untuk memulai!"
+        },
+        {
+            "key": "Level2_Prestory2_button",
+            "value": "Tentu saja!"
+        },        
+        {
+            "key": "Level1_Prestory1_heroName",
+            "value": "Wednesday"
+        },
+        {
+            "key": "Level2_Prestory2_heroName",
+            "value": "Miranda"
+        },
+        {
+            "key": "Level1_Prestory1_phrase1",
+            "value": "Aku ada disko malam ini..."
+        },
+        {
+            "key": "Level1_Prestory1_phrase2",
+            "value": "Akan ada dua orang di dalamnya yang saya suka."
+        },
+        {
+            "key": "Level1_Prestory1_phrase3",
+            "value": "Tapi saya tidak tahu cara berpakaian, bantu saya!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1",
+            "value": "Pacarku mencampakkanku! Dia bilang aku jelek!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2",
+            "value": "Dia pergi ke model. Saya bekerja sebagai asistennya dan akan ada peragaan busana hari ini."
+        },
+        {
+            "key": "Level2_Prestory2_phrase3",
+            "value": "Dia akan menyesali perbuatannya! Saya akan pergi ke landasan pacu dengan tampilan baru. Bisakah Anda membantu saya menata saya?"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1_variant2",
+            "value": "Seorang pria mencampakkanku!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2_variant2",
+            "value": "Sekarang dia berkencan dengan pacarku"
+        },
+        {
+            "key": "Level2_Prestory2_phrase3_variant2",
+            "value": "Dia harus menyesali keputusannya, tolong aku!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1_variant3",
+            "value": "Seorang pria mencampakkanku!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2_variant3",
+            "value": "Dia pergi ke gadis tercantik di universitas.."
+        },
+        {
+            "key": "Level2_Prestory2_phrase3_variant3",
+            "value": "Dia harus menyesali keputusannya! Tolong aku!"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Price",
+            "value": "{0}"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Description",
+            "value": "- Aksesori karakter VIP\n- Akses ke 100 pilihan makeup\n- Versi penuh game tanpa iklan"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Button",
+            "value": "DAPATKAN"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Sale",
+            "value": "-87%"
+        },
+        {
+            "key": "RemoteAdsButton_Price",
+            "value": "{0}"
+        }
+    ]
+}

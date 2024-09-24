@@ -1,0 +1,313 @@
+{
+    "items": [
+        {
+            "key": "SelectLevelWindowItemLevel",
+            "value": "水平 {0}"
+        },
+        {
+            "key": "SettingsWindowTitle",
+            "value": "设置"
+        },
+        {
+            "key": "SettingsWindowMusic",
+            "value": "音乐"
+        },
+        {
+            "key": "SettingsWindowSounds",
+            "value": "声音"
+        },
+        {
+            "key": "SettingsWindowVibro",
+            "value": "振动"
+        },
+        {
+            "key": "SettingsWindowLanguage",
+            "value": "语言"
+        },
+        {
+            "key": "SettingsWindowLanguageName",
+            "value": "中文"
+        },
+        {
+            "key": "PlayingWindowTitleLevel",
+            "value": "水平 {0}"
+        },
+        {
+            "key": "PlayingWindowBefore",
+            "value": "到"
+        },
+        {
+            "key": "InfoWindowEndLevelsTitle",
+            "value": "谢谢，所有的客户都满意！"
+        },
+        {
+            "key": "InfoWindowEndLevelsDescription",
+            "value": "每2周发布一次新级别的更新。 现在你有了经验，可以为角色创建新的图像。"
+        },
+        {
+            "key": "InfoWindowEndLevelsActionRestart",
+            "value": "游戏"
+        },
+        {
+            "key": "InfoWindowExitToHomeDescription",
+            "value": "你确定要去主菜单吗? 关卡的进度会丢失"
+        },
+        {
+            "key": "InfoWindowExitToHomeButtonText",
+            "value": "在菜单中"
+        },
+        {
+            "key": "ConfirmPurchaseTitle",
+            "value": "恭喜你！"
+        },
+        {
+            "key": "ConfirmPurchaseDescription",
+            "value": "购买成功完成，谢谢！"
+        },
+        {
+            "key": "ConfirmPurchaseButton",
+            "value": "好的"
+        },
+        {
+            "key": "RateGameLoginDescription",
+            "value": "要评价游戏，你需要登录到您的帐户"
+        },
+        {
+            "key": "RateGameLoginButton",
+            "value": "进入"
+        },
+        {
+            "key": "GameInterstitialControllerAdsText",
+            "value": "通过{0}广告。.."
+        },
+        {
+            "key": "",
+            "value": ""
+        },
+        {
+            "key": "NextLevel",
+            "value": "下一个"
+        },
+        {
+            "key": "ReplayLevel",
+            "value": "重播"
+        },
+        {
+            "key": "SubscriptionOfferRestorePurchase",
+            "value": "复原/复原"
+        },
+        {
+            "key": "SubscriptionOfferEULA",
+            "value": "尤拉"
+        },
+        {
+            "key": "SubscriptionOfferPrivacyPolicy",
+            "value": "私隐保护"
+        },
+        {
+            "key": "MainOffer_Style1_Title",
+            "value": "高级版\n版本"
+        },
+        {
+            "key": "MainOffer_Style1_Description",
+            "value": "解锁所有化妆品\n获得无尽的乐趣\n无广告"
+        },
+        {
+            "key": "MainOffer_Style1_Select1",
+            "value": "前3天免费\n然后 <b><size=42>{0}/每周</size></b>"
+        },
+        {
+            "key": "MainOffer_Style1_Select2",
+            "value": "12周\n<b><size=42>{0}/3个月</size></b>"
+        },
+        {
+            "key": "MainOffer_Style1_Subscribe",
+            "value": "尝试并订阅"
+        },
+        {
+            "key": "MainOffer_Style1_Sale",
+            "value": "-{0}%"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Title",
+            "value": "特别优惠\n仅限您！"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Description",
+            "value": "以特价获得所有化妆品"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Price1",
+            "value": "{0} 每月"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Price2",
+            "value": "仅 {0} 每月"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Subscribe",
+            "value": "获得"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Sale",
+            "value": "-{0}%"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Tooltip",
+            "value": "订阅后，付款将自动启动。\n除非在当前周期结束前至少24小时在帐户设置中关闭，否则将自动续订。\n付款将从您的Google Play帐户中扣除。\n随时取消。"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Price",
+            "value": "{0}"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Description",
+            "value": "关闭广告并以特价获得所有项目！"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Button",
+            "value": "获取"
+        },
+        {
+            "key": "NotifyTitle1",
+            "value": "造型师需要你的帮助!"
+        },
+        {
+            "key": "NotifyText1",
+            "value": "来玩吧! 🔥🔥🔥\n"
+        },
+        {
+            "key": "NotifyTitle2",
+            "value": "\n🎨🎨 回来帮忙美容院! 🎨🎨\n"
+        },
+        {
+            "key": "NotifyText2",
+            "value": "来玩吧! 🎮🎮🎮\n"
+        },
+        {
+            "key": "NotifyTitle3",
+            "value": "\n你好，大师! 🙋‍♀️\n"
+        },
+        {
+            "key": "NotifyText3",
+            "value": "现在是放松的时候! 🛖‍♀️\n"
+        },
+        {
+            "key": "NotifyTitle4",
+            "value": "❗️芭比正在等待她的约会! 🤇‍♀️💅🏻\n"
+        },
+        {
+            "key": "NotifyText4",
+            "value": "照顾客户，帮助她变得更美丽! 💇‍♀️💅🏻\n"
+        },
+        {
+            "key": "NotifyTitle5",
+            "value": "想要减轻压力吗? 🙅‍♀️\n"
+        },
+        {
+            "key": "NotifyText5",
+            "value": "沉浸在ASMR化妆游戏中! 💆‍♀️💄💅"
+        },
+        {
+            "key": "MainOffer_Style1_AdditionalInfo1",
+            "value": "订阅后，将开始为期3天的免费试用期，之后将自动启动{0}/周的付款。 如果在当前期间结束前至少24小时未在帐户设置中禁用，则会自动续订。 付款将记入您的Google Play帐户。 随时取消。"
+        },
+        {
+            "key": "MainOffer_Style1_AdditionalInfo2",
+            "value": "订阅后，将开始为期3天的免费试用期，之后将自动启动{0}/12周的付款。 如果在当前期间结束前至少24小时未在帐户设置中禁用，则会自动续订。 付款将记入您的Google Play帐户。 随时取消。"
+        },
+        {
+            "key": "TemporaryOffer_Style1_AdditionalInfo3",
+            "value": "订阅后，将开始为期3天的免费试用期，之后将自动启动{0}/月的付款。 如果在当前期间结束前至少24小时未在帐户设置中禁用，则会自动续订。 付款将记入您的Google Play帐户。 随时取消。"
+        },
+        {
+            "key": "Prestory_tap_to_continue",
+            "value": "点击继续"
+        },
+        {
+            "key": "Level1_Prestory1_button",
+            "value": "开始!"
+        },
+        {
+            "key": "Level2_Prestory2_button",
+            "value": "當然。!"
+        },        
+        {
+            "key": "Level1_Prestory1_heroName",
+            "value": "Wednesday"
+        },
+        {
+            "key": "Level2_Prestory2_heroName",
+            "value": "Miranda"
+        },
+        {
+            "key": "Level1_Prestory1_phrase1",
+            "value": "我今晚有个迪斯科舞厅..."
+        },
+        {
+            "key": "Level1_Prestory1_phrase2",
+            "value": "上面会有两个我喜欢的人。"
+        },
+        {
+            "key": "Level1_Prestory1_phrase3",
+            "value": "但我不知道怎么打扮，帮帮我！"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1",
+            "value": "我男朋友甩了我！ 他说我丑！"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2",
+            "value": "他去了模型。 我是她的助手,今天会有一个时装表演."
+        },
+        {
+            "key": "Level2_Prestory2_phrase3",
+            "value": "他会后悔的！ 我要以全新的面貌走上t台。 你能帮我塑造我的风格吗？"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1_variant2",
+            "value": "一个男人甩了我！"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2_variant2",
+            "value": "现在他在和我女朋友约会。"
+        },
+        {
+            "key": "Level2_Prestory2_phrase3_variant2",
+            "value": "他一定后悔自己的决定，帮帮我！"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1_variant3",
+            "value": "一个男人甩了我！"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2_variant3",
+            "value": "他去了大学里最漂亮的女孩.."
+        },
+        {
+            "key": "Level2_Prestory2_phrase3_variant3",
+            "value": "他一定后悔自己的决定！ 救救我！"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Price",
+            "value": "{0}"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Description",
+            "value": "-角色的VIP配件\n-访问100个化妆选项\n-没有广告的完整版游戏"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Button",
+            "value": "接收"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Sale",
+            "value": "-87%"
+        }
+    ,
+        {
+            "key": "RemoteAdsButton_Price",
+            "value": "{0}"
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "items": [
+        {
+            "key": "SelectLevelWindowItemLevel",
+            "value": "Уровень {0}"
+        },
+        {
+            "key": "SettingsWindowTitle",
+            "value": "Настройки"
+        },
+        {
+            "key": "SettingsWindowMusic",
+            "value": "Музыка"
+        },
+        {
+            "key": "SettingsWindowSounds",
+            "value": "Звуки"
+        },
+        {
+            "key": "SettingsWindowVibro",
+            "value": "Вибрация"
+        },
+        {
+            "key": "SettingsWindowLanguage",
+            "value": "Язык"
+        },
+        {
+            "key": "SettingsWindowLanguageName",
+            "value": "Русский"
+        },
+        {
+            "key": "PlayingWindowTitleLevel",
+            "value": "Уровень {0}"
+        },
+        {
+            "key": "PlayingWindowBefore",
+            "value": "До"
+        },
+        {
+            "key": "InfoWindowEndLevelsTitle",
+            "value": "Спасибо, все клиенты довольны!"
+        },
+        {
+            "key": "InfoWindowEndLevelsDescription",
+            "value": "Обновление с новыми уровнями выходит каждые 2 недели. Сейчас ты обладаешь опытом и можешь создать новые образы для персонажей."
+        },
+        {
+            "key": "InfoWindowEndLevelsActionRestart",
+            "value": "Играть"
+        },
+        {
+            "key": "InfoWindowExitToHomeDescription",
+            "value": "Точно хочешь выйти в главное меню? Прогресс уровня будет утерян"
+        },
+        {
+            "key": "InfoWindowExitToHomeButtonText",
+            "value": "В меню"
+        },
+        {
+            "key": "ConfirmPurchaseTitle",
+            "value": "Поздравляем!"
+        },
+        {
+            "key": "ConfirmPurchaseDescription",
+            "value": "Покупка успешно проведена, спасибо!"
+        },
+        {
+            "key": "ConfirmPurchaseButton",
+            "value": "ОК"
+        },
+        {
+            "key": "RateGameLoginDescription",
+            "value": "Чтобы оценить игру, необходимо войти в аккаунт"
+        },
+        {
+            "key": "RateGameLoginButton",
+            "value": "ВОЙТИ"
+        },
+        {
+            "key": "GameInterstitialControllerAdsText",
+            "value": "Реклама через {0}..."
+        },
+        {
+            "key": "NextLevel",
+            "value": "Вперед"
+        },
+        {
+            "key": "ReplayLevel",
+            "value": "Заново"
+        },
+        {
+            "key": "NotifyTitle1",
+            "value": "Стилисту нужна твоя помощь!"
+        },
+        {
+            "key": "NotifyText1",
+            "value": "Заходи играть!\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25\n"
+        },
+        {
+            "key": "NotifyTitle2",
+            "value": "\n\uD83C\uDFA8\uD83C\uDFA8Возвращайся помочь в салон красоты!\n"
+        },
+        {
+            "key": "NotifyText2",
+            "value": "Приходи играть!\uD83C\uDFAE\uD83C\uDFAE\uD83C\uDFAE\n"
+        },
+        {
+            "key": "NotifyTitle3",
+            "value": "\nПривет, мастер!\uD83D\uDE4B\u200D♀️\n"
+        },
+        {
+            "key": "NotifyText3",
+            "value": "Время расслабиться!\uD83E\uDDD6\u200D♀️\n"
+        },
+        {
+            "key": "NotifyTitle4",
+            "value": "❗️Барби долго ждет записи!\n"
+        },
+        {
+            "key": "NotifyText4",
+            "value": "Прими клиентку и помоги ей стать красивее!\uD83D\uDC87\uD83C\uDFFC\u200D♀️\uD83D\uDC85\uD83C\uDFFB\n"
+        },
+        {
+            "key": "NotifyTitle5",
+            "value": "Хочешь снять стресс?\uD83D\uDE45\u200D♀️\n"
+        },
+        {
+            "key": "NotifyText5",
+            "value": "Заходи в АСМР-игру про макияж!\uD83D\uDC86\u200D♀️\uD83D\uDC84\uD83D\uDC85"
+        },
+        {
+            "key": "SubscriptionOfferRestorePurchase",
+            "value": "Восстановить"
+        },
+        {
+            "key": "SubscriptionOfferEULA",
+            "value": "EULA"
+        },
+        {
+            "key": "SubscriptionOfferPrivacyPolicy",
+            "value": "Приватность"
+        },
+        {
+            "key": "MainOffer_Style1_Title",
+            "value": "Премиум\nВерсия"
+        },
+        {
+            "key": "MainOffer_Style1_Description",
+            "value": "открой все предметы макияжа\nполучи бесконечное веселье\nбез рекламы"
+        },
+        {
+            "key": "MainOffer_Style1_Select1",
+            "value": "Первые 3 дня бесплатно\nЗатем <b><size=42>{0}/неделя</size></b>"
+        },
+        {
+            "key": "MainOffer_Style1_Select2",
+            "value": "12 недель\n<b><size=42>{0}/3 месяца</size></b>"
+        },
+        {
+            "key": "MainOffer_Style1_Subscribe",
+            "value": "Попробовать и подписаться"
+        },
+        {
+            "key": "MainOffer_Style1_Sale",
+            "value": "-{0}%"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Title",
+            "value": "Специально предложение\nтолько для тебя!"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Description",
+            "value": "Получи все предметы\nдля макияжа\nпо специальной цене"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Price1",
+            "value": "{0} Ежемесячно"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Price2",
+            "value": "Всего за {0} Ежемесячно"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Subscribe",
+            "value": "Получить"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Sale",
+            "value": "-{0}%"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Tooltip",
+            "value": "После подписки будет автоматически инициирован платеж.\nОн автоматически продлемается, если он не отключен в настройках учета как минимум за 24 часа до окончания текущего периода.\nПлатеж взимается с вашей учетной записи Google Play.\nОтменить в любое время."
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Price",
+            "value": "{0}"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Description",
+            "value": "Отключи рекламу и получи Все предметы по специальной цене!"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Button",
+            "value": "ПОЛУЧИТЬ"
+        },
+        {
+            "key": "MainOffer_Style1_AdditionalInfo1",
+            "value": "После подписки начнутся 3 дня бесплатного пробного периода, после него будет автоматически инициирован платеж в размере {0}/неделю. Он автоматически продлевается, если он не отключен в настройках учетной записи как минимум за 24 часа до окончания текущего периода. Платеж взимается с вашей учетной записи Google Play. Отменить в любое время."
+        },
+        {
+            "key": "MainOffer_Style1_AdditionalInfo2",
+            "value": "После подписки начнутся 3 дня бесплатного пробного периода, после него будет автоматически инициирован платеж в размере {0}/12 недель. Он автоматически продлевается, если он не отключен в настройках учетной записи как минимум за 24 часа до окончания текущего периода. Платеж взимается с вашей учетной записи Google Play. Отменить в любое время."
+        },
+        {
+            "key": "TemporaryOffer_Style1_AdditionalInfo3",
+            "value": "После подписки начнутся 3 дня бесплатного пробного периода, после него будет автоматически инициирован платеж в размере {0}/месяц. Он автоматически продлевается, если он не отключен в настройках учетной записи как минимум за 24 часа до окончания текущего периода. Платеж взимается с вашей учетной записи Google Play. Отменить в любое время."
+        },
+        {
+            "key": "Prestory_tap_to_continue",
+            "value": "Нажми, чтобы продолжить"
+        },
+        {
+            "key": "Level1_Prestory1_button",
+            "value": "Начать!"
+        },
+        {
+            "key": "Level2_Prestory2_button",
+            "value": "Конечно!"
+        },        
+        {
+            "key": "Level1_Prestory1_heroName",
+            "value": "Уэнсдэй"
+        },
+        {
+            "key": "Level2_Prestory2_heroName",
+            "value": "Миранда"
+        },
+        {
+            "key": "Level1_Prestory1_phrase1",
+            "value": "У меня сегодня дискотека..."
+        },
+        {
+            "key": "Level1_Prestory1_phrase2",
+            "value": "На ней будут два парня, которые мне нравятся."
+        },
+        {
+            "key": "Level1_Prestory1_phrase3",
+            "value": "Но я не знаю как мне одеться, помоги мне!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1",
+            "value": "Мой парень бросил меня! Он сказал, что я уродина!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2",
+            "value": "Он ушел к модели. Я работаю у нее ассистенткой и сегодня будет показ одежды."
+        },
+        {
+            "key": "Level2_Prestory2_phrase3",
+            "value": "Он пожалеет, что так поступил! Я выйду на подиум в новом образе. Можешь помочь стилизовать меня?"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1_variant2",
+            "value": "Меня бросил парень!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2_variant2",
+            "value": "Теперь он встречается с моей подругой"
+        },
+        {
+            "key": "Level2_Prestory2_phrase3_variant2",
+            "value": "Он обязан пожалеть о своем решении, помоги мне!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1_variant3",
+            "value": "Меня бросил парень!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2_variant3",
+            "value": "Он ушел к самой красивой девушке в университете.."
+        },
+        {
+            "key": "Level2_Prestory2_phrase3_variant3",
+            "value": "Он обязан пожалеть о своем решении! Помоги мне!"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Price",
+            "value": "{0}"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Description",
+            "value": "- VIP аксессуары для персонажа\n- Доступ к 100 вариантам макияжа\n- Полная версия игры без рекламы"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Button",
+            "value": "ПОЛУЧИТЬ"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Sale",
+            "value": "-87%"
+        },
+        {
+            "key": "RemoteAdsButton_Price",
+            "value": "{0}"
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "items": [
+        {
+            "key": "SelectLevelWindowItemLevel",
+            "value": "Nível {0}"
+        },
+        {
+            "key": "SettingsWindowTitle",
+            "value": "Sintonização"
+        },
+        {
+            "key": "SettingsWindowMusic",
+            "value": "Música"
+        },
+        {
+            "key": "SettingsWindowSounds",
+            "value": "Som"
+        },
+        {
+            "key": "SettingsWindowVibro",
+            "value": "Vibração"
+        },
+        {
+            "key": "SettingsWindowLanguage",
+            "value": "Idioma"
+        },
+        {
+            "key": "SettingsWindowLanguageName",
+            "value": "Portug"
+        },
+        {
+            "key": "PlayingWindowTitleLevel",
+            "value": "Nível {0}"
+        },
+        {
+            "key": "PlayingWindowBefore",
+            "value": "Até"
+        },
+        {
+            "key": "InfoWindowEndLevelsTitle",
+            "value": "Obrigado, todos os clientes estão satisfeitos!"
+        },
+        {
+            "key": "InfoWindowEndLevelsDescription",
+            "value": "Uma atualização com novos níveis é lançada a cada 2 semanas. Agora você tem experiência e pode criar novas imagens para os personagens."
+        },
+        {
+            "key": "InfoWindowEndLevelsActionRestart",
+            "value": "Jogar"
+        },
+        {
+            "key": "InfoWindowExitToHomeDescription",
+            "value": "Tens a certeza que queres ir ao menu principal? O progresso de nível será perdido"
+        },
+        {
+            "key": "InfoWindowExitToHomeButtonText",
+            "value": "No menu"
+        },
+        {
+            "key": "ConfirmPurchaseTitle",
+            "value": "Parabéns!"
+        },
+        {
+            "key": "ConfirmPurchaseDescription",
+            "value": "A compra foi realizada com sucesso, obrigado!"
+        },
+        {
+            "key": "ConfirmPurchaseButton",
+            "value": "OLHO"
+        },
+        {
+            "key": "RateGameLoginDescription",
+            "value": "Para avaliar o jogo, você precisa fazer login na conta"
+        },
+        {
+            "key": "RateGameLoginButton",
+            "value": "CONECTAR"
+        },
+        {
+            "key": "GameInterstitialControllerAdsText",
+            "value": "Publicidade em {0}..."
+        },
+        {
+            "key": "",
+            "value": ""
+        },
+        {
+            "key": "NextLevel",
+            "value": "Seguinte"
+        },
+        {
+            "key": "ReplayLevel",
+            "value": "Replay"
+        },
+        {
+            "key": "SubscriptionOfferRestorePurchase",
+            "value": "Restaurar"
+        },
+        {
+            "key": "SubscriptionOfferEULA",
+            "value": "EULA"
+        },
+        {
+            "key": "SubscriptionOfferPrivacyPolicy",
+            "value": "Privacidade"
+        },
+        {
+            "key": "MainOffer_Style1_Title",
+            "value": "Versão\nPremium"
+        },
+        {
+            "key": "MainOffer_Style1_Description",
+            "value": "Desbloqueie todos os itens de maquiagem\nObtenha diversão sem fim\nsem anúncios"
+        },
+        {
+            "key": "MainOffer_Style1_Select1",
+            "value": "Primeiros 3 dias grátis\nDepois <b><size=42>{0}/semana</size></b>"
+        },
+        {
+            "key": "MainOffer_Style1_Select2",
+            "value": "12 semanas\n<b><size=42>{0}/3 meses</size></b>"
+        },
+        {
+            "key": "MainOffer_Style1_Subscribe",
+            "value": "Experimente e Assine"
+        },
+        {
+            "key": "MainOffer_Style1_Sale",
+            "value": "-{0}%"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Title",
+            "value": "Oferta Especial\nSó para Você!"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Description",
+            "value": "Obtenha todos os itens de maquiagem\na um preço especial"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Price1",
+            "value": "{0} Mensal"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Price2",
+            "value": "Apenas {0} Mensal"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Subscribe",
+            "value": "Obter"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Sale",
+            "value": "-{0}%"
+        },
+        {
+            "key": "TemporaryOffer_Style1_Tooltip",
+            "value": "Após a assinatura, o pagamento será iniciado automaticamente.\nEle será renovado automaticamente, a menos que seja desativado nas configurações da conta pelo menos 24 horas antes do final do período atual.\nO pagamento será cobrado em sua conta do Google Play.\nCancele a qualquer momento."
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Price",
+            "value": "{0}"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Description",
+            "value": "Desative os anúncios e obtenha todos os itens a um preço especial!"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_Style1_Button",
+            "value": "OBTER"
+        },
+        {
+            "key": "NotifyTitle1",
+            "value": "O estilista precisa da tua ajuda!"
+        },
+        {
+            "key": "NotifyText1",
+            "value": "Vem jogar! 🔥🔥🔥\n"
+        },
+        {
+            "key": "NotifyTitle2",
+            "value": "\n🎨🎨 Volte e ajude no salão de beleza! 🎨🎨\n"
+        },
+        {
+            "key": "NotifyText2",
+            "value": "Vem jogar! 🎮🎮🎮\n"
+        },
+        {
+            "key": "NotifyTitle3",
+            "value": "\nOlá, mestre! 🙋‍♀️\n"
+        },
+        {
+            "key": "NotifyText3",
+            "value": "É hora de relaxar! 🛖‍♀️\n"
+        },
+        {
+            "key": "NotifyTitle4",
+            "value": "❗️A Barbie está esperando a sua consulta! 🤇‍♀️💅🏻\n"
+        },
+        {
+            "key": "NotifyText4",
+            "value": "Atenda a cliente e ajude-a a ficar mais bonita! 💇‍♀️💅🏻\n"
+        },
+        {
+            "key": "NotifyTitle5",
+            "value": "Quer aliviar o estresse? 🙅‍♀️\n"
+        },
+        {
+            "key": "NotifyText5",
+            "value": "Entre no jogo ASMR de maquiagem! 💆‍♀️💄💅"
+        },
+        {
+            "key": "MainOffer_Style1_AdditionalInfo1",
+            "value": "Após a Assinatura, um período de teste gratuito de 3 dias começará, após o qual um pagamento de {0}/semana será iniciado automaticamente. Ele é renovado automaticamente, a menos que seja desativado nas configurações da Conta pelo menos 24 horas antes do final do período atual. O pagamento é cobrado na sua conta do Google Play. Cancelar a qualquer momento."
+        },
+        {
+            "key": "MainOffer_Style1_AdditionalInfo2",
+            "value": "Após a Assinatura, um período de teste gratuito de 3 dias começará, após o qual um pagamento de {0}/12 semanas será iniciado automaticamente. Ele é renovado automaticamente, a menos que seja desativado nas configurações da Conta pelo menos 24 horas antes do final do período atual. O pagamento é cobrado na sua conta do Google Play. Cancelar a qualquer momento."
+        },
+        {
+            "key": "TemporaryOffer_Style1_AdditionalInfo3",
+            "value": "Após a Assinatura, o período de teste gratuito começará por 3 dias, após o qual um pagamento de {0}/mês será iniciado automaticamente. Ele é renovado automaticamente, a menos que seja desativado nas configurações da Conta pelo menos 24 horas antes do final do período atual. O pagamento é cobrado na sua conta do Google Play. Cancelar a qualquer momento."
+        },
+        {
+            "key": "Prestory_tap_to_continue",
+            "value": "Clique para continuar"
+        },
+        {
+            "key": "Level1_Prestory1_button",
+            "value": "Começar!"
+        },
+        {
+            "key": "Level2_Prestory2_button",
+            "value": "Certamente!"
+        },        
+        {
+            "key": "Level1_Prestory1_heroName",
+            "value": "Wednesday"
+        },
+        {
+            "key": "Level2_Prestory2_heroName",
+            "value": "Miranda"
+        },
+        {
+            "key": "Level1_Prestory1_phrase1",
+            "value": "Tenho uma discoteca hoje..."
+        },
+        {
+            "key": "Level1_Prestory1_phrase2",
+            "value": "Vai ter dois tipos que eu gosto."
+        },
+        {
+            "key": "Level1_Prestory1_phrase3",
+            "value": "Mas não sei como me vestir, ajuda-me!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1",
+            "value": "O meu namorado deixou-me! Ele disse que eu era feia!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2",
+            "value": "Ele foi para a modelo. Sou assistente dela, e há um desfile de roupas esta noite."
+        },
+        {
+            "key": "Level2_Prestory2_phrase3",
+            "value": "Ele vai arrepender-se de o ter feito! Vou subir ao pódio com um novo visual. Podes ajudar-me a estilizar-me?"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1_variant2",
+            "value": "Um tipo deixou-me!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2_variant2",
+            "value": "Agora está a sair com a minha amiga"
+        },
+        {
+            "key": "Level2_Prestory2_phrase3_variant2",
+            "value": "Ele tem de se arrepender da sua decisão. ajuda-me!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase1_variant3",
+            "value": "Um tipo deixou-me!"
+        },
+        {
+            "key": "Level2_Prestory2_phrase2_variant3",
+            "value": "Ele foi ter com a rapariga mais bonita da Universidade.."
+        },
+        {
+            "key": "Level2_Prestory2_phrase3_variant3",
+            "value": "Ele tem que se arrepender de sua decisão! Ajuda-me!"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Price",
+            "value": "{0}"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Description",
+            "value": "- Acessórios de personagens VIP\n - acesso a 100 opções de maquiagem\n- jogo completo sem anúncios"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Button",
+            "value": "OBTER"
+        },
+        {
+            "key": "OfferForRemoveAdsWindow_NY_Sale",
+            "value": "-87%"
+        },
+        {
+            "key": "RemoteAdsButton_Price",
+            "value": "{0}"
+        }
+    ]
+}
