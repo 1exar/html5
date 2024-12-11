@@ -103,5 +103,30 @@
       };
       document.body.appendChild(script);
     </script>
+
+<script>
+  function showInputField(id) {
+      // Создать поле ввода, если оно ещё не существует
+      let input = document.getElementById('webgl-input');
+      if (!input) {
+          input = document.createElement('input');
+          input.type = 'text';
+          input.id = 'webgl-input';
+          input.style.position = 'absolute';
+          input.style.top = '50%'; // Положение на экране
+          input.style.left = '50%';
+          input.style.transform = 'translate(-50%, -50%)';
+          input.style.fontSize = '16px';
+          input.style.zIndex = '1000';
+          document.body.appendChild(input);
+
+          input.onblur = function () {
+              unityInstance.SendMessage(id, 'OnInputComplete', input.value);
+              document.body.removeChild(input);
+          };
+      }
+      input.focus();
+  }
+</script>
   </body>
 </html>
