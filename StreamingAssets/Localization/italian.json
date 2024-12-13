@@ -1,0 +1,17 @@
+{
+    "items": [
+        {
+            "key": "DaysAndHours",
+            "value": "{0}G {1}O"
+        },
+        {
+            "key": "HoursAndMinutes",
+            "value": "{0}Ore {1}Min"
+        },
+        {
+            "key": "MinutesAndSeconds",
+            "value": "{0}Min {1}S"
+        }
+
+    ]
+}
