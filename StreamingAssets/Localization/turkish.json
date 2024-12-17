@@ -1,1 +1,16 @@
-{"items":[{"key":"DaysAndHours","value":"{0}G {1}S"},{"key":"HoursAndMinutes","value":"{0}S {1}D"},{"key":"MinutesAndSeconds","value":"{0}D {1}S"}]}
+{
+    "items": [
+        {
+            "key": "DaysAndHours",
+            "value": "{0}G {1}S"
+        },
+        {
+            "key": "HoursAndMinutes",
+            "value": "{0}S {1}D"
+        },
+        {
+            "key": "MinutesAndSeconds",
+            "value": "{0}D {1}S"
+        }
+    ]
+}
