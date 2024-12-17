@@ -86,14 +86,15 @@
       }
 
       const script = document.createElement("script");
-      const loaderUrl = buildUrl + "/Source.loader.js";
+      const loaderUrl = buildUrl + "/Build.loader.js";
 
-      UnityProgress(0);
       script.src = loaderUrl;
       script.onload = () => {
-        createUnityInstance(canvas, config, (progress) => UnityProgress(progress))
-                .then((uInstance) => unityInstance = uInstance)
-                .catch((message) => console.log(message));
+        createUnityInstance(canvas, config, (progress) => {
+          const progressBarFull = document.querySelector("#unity-progress-bar-full");
+          if (progressBarFull) progressBarFull.style.width = 100 * progress + "%";
+        }).then((uInstance) => unityInstance = uInstance)
+          .catch((message) => console.log(message));
       };
       document.body.appendChild(script);
     </script>
