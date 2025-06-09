@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Catch The Color 2-1.0";
 const contentToCache = [
     "Build/html5.loader.js",
-    "Build/html5.framework.js.gz",
-    "Build/html5.data.gz",
-    "Build/html5.wasm.gz",
+    "Build/html5.framework.js",
+    "Build/html5.data",
+    "Build/html5.wasm",
     "TemplateData/style.css"
 
 ];
